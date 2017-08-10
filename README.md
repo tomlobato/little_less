@@ -1,7 +1,7 @@
 # ALittleLess
 
 [![Gem Version](https://badge.fury.io/rb/a_little_less.svg)](https://badge.fury.io/rb/a_little_less)
-[![Code Climate](https://codeclimate.com/github/tomlobato/a_little_less.svg)](https://codeclimate.com/github/tomlobato/a_little_less)
+[![Code Climate](https://codeclimate.com/github/tomlobato/little_less.svg)](https://codeclimate.com/github/tomlobato/little_less)
 ![](http://ruby-gem-downloads-badge.herokuapp.com/a_little_less?type=total&label=gem%20downloads)
  
 By [Bettercall.io](https://bettercall.io/).
