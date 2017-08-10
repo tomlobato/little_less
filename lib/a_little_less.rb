@@ -13,8 +13,14 @@ require 'active_record'
 
 class AlittleLess; end
 
-require_relative 'vendor/rails_blank'
-require_relative 'vendor/rails_inclusion'
+unless Object.has_method? :blank?
+    require_relative 'vendor/rails_blank'
+end
+
+unless Object.has_method? :in?
+    require_relative 'vendor/rails_inclusion'
+end
+
 require_relative 'a_little_less/global'
 require_relative 'a_little_less/router'
 require_relative 'a_little_less/util'
