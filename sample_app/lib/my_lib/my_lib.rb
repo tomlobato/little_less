@@ -1,3 +1,0 @@
-class MyLib
-
-end
