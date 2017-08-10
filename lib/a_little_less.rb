@@ -13,11 +13,11 @@ require 'active_record'
 
 class AlittleLess; end
 
-unless Object.has_method? :blank?
+unless Object.method_defined? :blank?
     require_relative 'vendor/rails_blank'
 end
 
-unless Object.has_method? :in?
+unless Object.method_defined? :in?
     require_relative 'vendor/rails_inclusion'
 end
 
