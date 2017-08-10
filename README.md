@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-See the [https://github.com/tomlobato/little_less/tree/master/sample_app](https://github.com/tomlobato/little_less/tree/master/sample_app)
+See the [/sample_app](https://github.com/tomlobato/little_less/tree/master/sample_app)
 
 ## Development
 
