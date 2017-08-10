@@ -3,7 +3,7 @@
 [![Gem Version](https://badge.fury.io/rb/a_little_less.svg)](https://badge.fury.io/rb/a_little_less)
 [![Code Climate](https://codeclimate.com/github/tomlobato/little_less.svg)](https://codeclimate.com/github/tomlobato/little_less)
 ![](http://ruby-gem-downloads-badge.herokuapp.com/a_little_less?type=total&label=gem%20downloads)
- 
+
 By [Bettercall.io](https://bettercall.io/).
 
 A web framework a little more simple.
@@ -36,7 +36,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/a_little_less.
+Bug reports and pull requests are welcome on GitHub at https://github.com/tomlobato/a_little_less.
 
 
 ## License
