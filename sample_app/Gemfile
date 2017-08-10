@@ -1,0 +1,13 @@
+
+source 'https://rubygems.org'
+
+# framework
+gem 'a_little_less'
+gem 'mysql2'
+
+# easy_img
+gem 'addressable'
+gem 'ruby-filemagic'
+gem 'mime-types'
+gem 'bugsnag'
+gem 'httparty'

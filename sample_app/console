@@ -1,0 +1,4 @@
+#!/bin/bash
+
+irb -r alittle_less
+
